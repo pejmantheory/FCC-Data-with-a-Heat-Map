@@ -1,4 +1,4 @@
-# FCC-Data-with-a-Heat-Map
+# Data-with-a-Heat-Map
 <img width="1027" alt="Screenshot 2023-06-09 at 5 23 52 AM" src="https://github.com/pejmantheory/FCC-Data-with-a-Heat-Map/assets/81389644/9f7c8d9c-eb76-4178-b1f8-403fcc4f34e6">
 Coding platform: CodePen
 
